@@ -14,6 +14,9 @@ Se for iniciar em uma maquina local pode ser que o CORS apresente algum erro, se
 
 - Utilizar ('https://cors-anywhere.herokuapp.com/https://tf378xyae1.execute-api.sa-east-1.amazonaws.com/prod') como a baseURL no arquivo api.js;
 
+## Dados de acesso são:
+### admin@email.com | @#$234
+
 ### Pré-requisitos:
  - Utilizar react-js (https://pt-br.reactjs.org/) e o Material UI (https://material-ui.com/) para os elementos de tela;
  - A página ser responsiva;
